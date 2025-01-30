@@ -1,5 +1,5 @@
 <?php
-$servername = "mysql.railway.internal";
+$servername = "junction.proxy.rlwy.net";
 $username = "root";
 $password = "QZvdYmzGvEcRPTbeNmpMMdwCyLUajrZo";
 $dbname = "railway";
