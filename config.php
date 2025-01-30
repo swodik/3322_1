@@ -1,8 +1,8 @@
 <?php
 $servername = "localhost";
 $username = "root";
-$password = "";
-$dbname = "bps3322_monika_db";
+$password = "QZvdYmzGvEcRPTbeNmpMMdwCyLUajrZo";
+$dbname = "railway";
 
 $conn = new mysqli($servername, $username, $password, $dbname);
 
